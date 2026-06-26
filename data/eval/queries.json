@@ -1,0 +1,152 @@
+[
+    {
+        "query_id": 1,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_001"
+    },
+    {
+        "query_id": 2,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_002"
+    },
+    {
+        "query_id": 3,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_003"
+    },
+    {
+        "query_id": 4,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_004"
+    },
+    {
+        "query_id": 5,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_005"
+    },
+    {
+        "query_id": 6,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_006"
+    },
+    {
+        "query_id": 7,
+        "query": "usaha perikanan tanpa surat izin usaha perikanan",
+        "ground_truth": "case_007"
+    },
+    {
+        "query_id": 8,
+        "query": "tindak pidana perikanan",
+        "ground_truth": "case_008"
+    },
+    {
+        "query_id": 9,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_009"
+    },
+    {
+        "query_id": 10,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_010"
+    },
+    {
+        "query_id": 11,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_011"
+    },
+    {
+        "query_id": 12,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_012"
+    },
+    {
+        "query_id": 13,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_013"
+    },
+    {
+        "query_id": 14,
+        "query": "kapal asing melakukan penangkapan ikan",
+        "ground_truth": "case_014"
+    },
+    {
+        "query_id": 15,
+        "query": "kapal asing melakukan penangkapan ikan",
+        "ground_truth": "case_015"
+    },
+    {
+        "query_id": 16,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_016"
+    },
+    {
+        "query_id": 17,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_017"
+    },
+    {
+        "query_id": 18,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_018"
+    },
+    {
+        "query_id": 19,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_019"
+    },
+    {
+        "query_id": 20,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_020"
+    },
+    {
+        "query_id": 21,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_021"
+    },
+    {
+        "query_id": 22,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_022"
+    },
+    {
+        "query_id": 23,
+        "query": "tindak pidana perikanan",
+        "ground_truth": "case_023"
+    },
+    {
+        "query_id": 24,
+        "query": "tindak pidana perikanan",
+        "ground_truth": "case_024"
+    },
+    {
+        "query_id": 25,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_025"
+    },
+    {
+        "query_id": 26,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_026"
+    },
+    {
+        "query_id": 27,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_027"
+    },
+    {
+        "query_id": 28,
+        "query": "penangkapan ikan tanpa surat izin penangkapan ikan",
+        "ground_truth": "case_028"
+    },
+    {
+        "query_id": 29,
+        "query": "penggunaan alat tangkap pukat harimau",
+        "ground_truth": "case_029"
+    },
+    {
+        "query_id": 30,
+        "query": "penangkapan ikan menggunakan bahan peledak",
+        "ground_truth": "case_030"
+    }
+]

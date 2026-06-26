@@ -1,0 +1,101 @@
+2026-06-26 05:35:03,885 - INFO - ===== NOTEBOOK 01 STARTED =====
+2026-06-26 05:35:04,158 - INFO - MASUK MAIN
+2026-06-26 05:35:04,169 - INFO - SEBELUM SCRAPER
+2026-06-26 05:35:05,568 - WARNING - Gagal membuka https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=8b0e5f0d2f1a0e6a4f3c6b8d1c2e9f11&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr= | percobaan=1
+2026-06-26 05:35:10,692 - WARNING - Gagal membuka https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=8b0e5f0d2f1a0e6a4f3c6b8d1c2e9f11&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr= | percobaan=2
+2026-06-26 05:35:15,865 - WARNING - Gagal membuka https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=8b0e5f0d2f1a0e6a4f3c6b8d1c2e9f11&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr= | percobaan=3
+2026-06-26 05:35:20,869 - ERROR - Gagal total membuka: https://putusan3.mahkamahagung.go.id/search.html?q=&jenis_doc=putusan&cat=8b0e5f0d2f1a0e6a4f3c6b8d1c2e9f11&jd=&tp=&court=&t_put=&t_reg=&t_upl=&t_pr=
+2026-06-26 05:35:20,871 - INFO - SETELAH SCRAPER
+2026-06-26 05:35:20,872 - INFO - PROCESS PDF START
+2026-06-26 05:35:20,881 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_1.pdf
+2026-06-26 05:35:22,987 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_1.pdf
+2026-06-26 05:35:23,006 - INFO - Saved: case_001.txt
+2026-06-26 05:35:23,007 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_2.pdf
+2026-06-26 05:35:23,784 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_2.pdf
+2026-06-26 05:35:23,801 - INFO - Saved: case_002.txt
+2026-06-26 05:35:23,803 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_3.pdf
+2026-06-26 05:35:25,347 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_3.pdf
+2026-06-26 05:35:25,369 - INFO - Saved: case_003.txt
+2026-06-26 05:35:25,371 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_4.pdf
+2026-06-26 05:35:26,178 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_4.pdf
+2026-06-26 05:35:26,195 - INFO - Saved: case_004.txt
+2026-06-26 05:35:26,197 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_5.pdf
+2026-06-26 05:35:27,722 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_5.pdf
+2026-06-26 05:35:27,742 - INFO - Saved: case_005.txt
+2026-06-26 05:35:27,745 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_6.pdf
+2026-06-26 05:35:32,308 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_6.pdf
+2026-06-26 05:35:32,343 - INFO - Saved: case_006.txt
+2026-06-26 05:35:32,344 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_7.pdf
+2026-06-26 05:35:32,949 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_7.pdf
+2026-06-26 05:35:32,967 - INFO - Saved: case_007.txt
+2026-06-26 05:35:32,969 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_8.pdf
+2026-06-26 05:35:33,436 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_8.pdf
+2026-06-26 05:35:33,451 - INFO - Saved: case_008.txt
+2026-06-26 05:35:33,452 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_9.pdf
+2026-06-26 05:35:35,907 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_9.pdf
+2026-06-26 05:35:35,936 - INFO - Saved: case_009.txt
+2026-06-26 05:35:35,938 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_10.pdf
+2026-06-26 05:35:37,336 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_10.pdf
+2026-06-26 05:35:37,360 - INFO - Saved: case_010.txt
+2026-06-26 05:35:37,362 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_11.pdf
+2026-06-26 05:35:37,859 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_11.pdf
+2026-06-26 05:35:37,874 - INFO - Saved: case_011.txt
+2026-06-26 05:35:37,878 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_12.pdf
+2026-06-26 05:35:38,398 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_12.pdf
+2026-06-26 05:35:38,423 - INFO - Saved: case_012.txt
+2026-06-26 05:35:38,425 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_13.pdf
+2026-06-26 05:35:39,636 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_13.pdf
+2026-06-26 05:35:39,676 - INFO - Saved: case_013.txt
+2026-06-26 05:35:39,678 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_14.pdf
+2026-06-26 05:35:40,530 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_14.pdf
+2026-06-26 05:35:40,547 - INFO - Saved: case_014.txt
+2026-06-26 05:35:40,548 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_15.pdf
+2026-06-26 05:35:41,569 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_15.pdf
+2026-06-26 05:35:41,591 - INFO - Saved: case_015.txt
+2026-06-26 05:35:41,594 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_16.pdf
+2026-06-26 05:35:46,824 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_16.pdf
+2026-06-26 05:35:46,855 - INFO - Saved: case_016.txt
+2026-06-26 05:35:46,858 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_17.pdf
+2026-06-26 05:35:49,113 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_17.pdf
+2026-06-26 05:35:49,141 - INFO - Saved: case_017.txt
+2026-06-26 05:35:49,143 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_18.pdf
+2026-06-26 05:35:50,724 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_18.pdf
+2026-06-26 05:35:50,747 - INFO - Saved: case_018.txt
+2026-06-26 05:35:50,749 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_19.pdf
+2026-06-26 05:35:51,220 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_19.pdf
+2026-06-26 05:35:51,236 - INFO - Saved: case_019.txt
+2026-06-26 05:35:51,237 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_20.pdf
+2026-06-26 05:35:53,655 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_20.pdf
+2026-06-26 05:35:53,701 - INFO - Saved: case_020.txt
+2026-06-26 05:35:53,703 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_21.pdf
+2026-06-26 05:35:54,303 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_21.pdf
+2026-06-26 05:35:54,316 - INFO - Saved: case_021.txt
+2026-06-26 05:35:54,318 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_22.pdf
+2026-06-26 05:35:54,761 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_22.pdf
+2026-06-26 05:35:54,775 - INFO - Saved: case_022.txt
+2026-06-26 05:35:54,777 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_23.pdf
+2026-06-26 05:35:55,347 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_23.pdf
+2026-06-26 05:35:55,377 - INFO - Saved: case_023.txt
+2026-06-26 05:35:55,379 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_24.pdf
+2026-06-26 05:35:58,780 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_24.pdf
+2026-06-26 05:35:58,826 - INFO - Saved: case_024.txt
+2026-06-26 05:35:58,828 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_25.pdf
+2026-06-26 05:36:00,913 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_25.pdf
+2026-06-26 05:36:00,945 - INFO - Saved: case_025.txt
+2026-06-26 05:36:00,948 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_26.pdf
+2026-06-26 05:36:04,114 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_26.pdf
+2026-06-26 05:36:04,162 - INFO - Saved: case_026.txt
+2026-06-26 05:36:04,163 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_27.pdf
+2026-06-26 05:36:05,134 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_27.pdf
+2026-06-26 05:36:05,152 - INFO - Saved: case_027.txt
+2026-06-26 05:36:05,154 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_28.pdf
+2026-06-26 05:36:06,981 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_28.pdf
+2026-06-26 05:36:07,014 - INFO - Saved: case_028.txt
+2026-06-26 05:36:07,015 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_29.pdf
+2026-06-26 05:36:07,754 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_29.pdf
+2026-06-26 05:36:07,769 - INFO - Saved: case_029.txt
+2026-06-26 05:36:07,771 - INFO - Processing: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_30.pdf
+2026-06-26 05:36:09,799 - INFO - pdfminer berhasil: /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/raw_pdf/putusan_30.pdf
+2026-06-26 05:36:09,823 - INFO - Saved: case_030.txt
+2026-06-26 05:36:09,826 - INFO - PROCESS COMPLETE: 30
+2026-06-26 05:36:09,827 - INFO - SETELAH PROCESS PDF

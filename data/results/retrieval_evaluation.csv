@@ -1,0 +1,31 @@
+query_id,query,ground_truth,retrieved,hit@5
+1,penangkapan ikan menggunakan bahan peledak,case_001,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",1
+2,penggunaan alat tangkap pukat harimau,case_002,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",0
+3,penggunaan alat tangkap pukat harimau,case_003,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",1
+4,penangkapan ikan tanpa surat izin penangkapan ikan,case_004,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",1
+5,penggunaan alat tangkap pukat harimau,case_005,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",0
+6,penangkapan ikan menggunakan bahan peledak,case_006,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",0
+7,usaha perikanan tanpa surat izin usaha perikanan,case_007,"['case_007', 'case_021', 'case_008', 'case_028', 'case_026']",1
+8,tindak pidana perikanan,case_008,"['case_008', 'case_015', 'case_011', 'case_021', 'case_030']",1
+9,penangkapan ikan tanpa surat izin penangkapan ikan,case_009,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",1
+10,penangkapan ikan menggunakan bahan peledak,case_010,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",1
+11,penangkapan ikan tanpa surat izin penangkapan ikan,case_011,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",0
+12,penggunaan alat tangkap pukat harimau,case_012,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",0
+13,penggunaan alat tangkap pukat harimau,case_013,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",1
+14,kapal asing melakukan penangkapan ikan,case_014,"['case_022', 'case_015', 'case_029', 'case_007', 'case_004']",0
+15,kapal asing melakukan penangkapan ikan,case_015,"['case_022', 'case_015', 'case_029', 'case_007', 'case_004']",1
+16,penangkapan ikan tanpa surat izin penangkapan ikan,case_016,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",0
+17,penangkapan ikan menggunakan bahan peledak,case_017,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",0
+18,penangkapan ikan tanpa surat izin penangkapan ikan,case_018,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",0
+19,penggunaan alat tangkap pukat harimau,case_019,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",1
+20,penangkapan ikan menggunakan bahan peledak,case_020,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",0
+21,penangkapan ikan tanpa surat izin penangkapan ikan,case_021,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",0
+22,penggunaan alat tangkap pukat harimau,case_022,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",1
+23,tindak pidana perikanan,case_023,"['case_008', 'case_015', 'case_011', 'case_021', 'case_030']",0
+24,tindak pidana perikanan,case_024,"['case_008', 'case_015', 'case_011', 'case_021', 'case_030']",0
+25,penangkapan ikan menggunakan bahan peledak,case_025,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",1
+26,penangkapan ikan tanpa surat izin penangkapan ikan,case_026,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",1
+27,penangkapan ikan menggunakan bahan peledak,case_027,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",0
+28,penangkapan ikan tanpa surat izin penangkapan ikan,case_028,"['case_022', 'case_026', 'case_009', 'case_004', 'case_019']",0
+29,penggunaan alat tangkap pukat harimau,case_029,"['case_022', 'case_029', 'case_019', 'case_003', 'case_013']",1
+30,penangkapan ikan menggunakan bahan peledak,case_030,"['case_001', 'case_010', 'case_022', 'case_025', 'case_030']",1

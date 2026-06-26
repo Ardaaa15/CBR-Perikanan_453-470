@@ -1,0 +1,11 @@
+2026-06-26 06:02:03,848 | INFO | ===== NOTEBOOK 05 STARTED =====
+2026-06-26 06:02:04,174 | INFO | Prediction File : (30, 6)
+2026-06-26 06:02:04,175 | INFO | Retain File : (30, 6)
+2026-06-26 06:02:04,401 | INFO | Retrieval Metrics Saved : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/eval/retrieval_metrics.csv
+2026-06-26 06:02:04,522 | INFO | Prediction Metrics Saved : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/eval/prediction_metrics.csv
+2026-06-26 06:02:04,651 | INFO | Classification Report Saved : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/eval/classification_report.csv
+2026-06-26 06:02:05,679 | INFO | Prediction Plot : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/visualizations/prediction_metrics.png
+2026-06-26 06:02:05,681 | INFO | Retrieval Plot : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/visualizations/retrieval_metrics.png
+2026-06-26 06:02:06,878 | INFO | Retrieval Error File : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/eval/retrieval_errors.csv
+2026-06-26 06:02:06,878 | INFO | Prediction Error File : /content/drive/MyDrive/2023-453_PenalaranKomputerB/SubCPMK3/perikanan/data/eval/prediction_errors.csv
+2026-06-26 06:02:06,936 | INFO | ===== NOTEBOOK 05 FINISHED =====
